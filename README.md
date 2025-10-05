@@ -61,7 +61,7 @@ Try changing walls (#) and dots (.) to make your own challenges. If you add new 
 
 📸 Screenshot
 
-[Pac-Man Screenshot](images/screenshot.png)
+![Pac-Man Screenshot](images/screenshot.png)
 
 🧠 Learn & Modify
 
